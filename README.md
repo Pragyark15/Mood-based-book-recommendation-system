@@ -1,4 +1,4 @@
-# 📚 Mood-Based Book Recommendation System
+# 📚 Mood-Based Book Recommendation System using AI 
 
 A smart recommendation system that suggests books to users based on their current **mood** using sentiment analysis or mood selection. The system aims to personalize reading experiences by connecting emotions with literature.
 
